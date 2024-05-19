@@ -1,4 +1,4 @@
-<h1 align="center"> Ant Colony Optimization for Maximum Clique problem </h1>
+<h1 align="center"> Salp Swarm Algorithm for Maximum Clique problem </h1>
 
 Given an undirected graph, the objective of the Maximum Clique problem is to find a set of mutually adjacent vertices that contains the largest possible number of vertices. Many problems from various domains can be modeled as a Maximum Clique, such as social networks, bioinformatics, and network optimization. Due to its classification as an NP-Hard problem, various approaches are devised to seek approximate solutions. One such approach involves utilizing Salp Swarm Algorithm, which is implemented here.
 
