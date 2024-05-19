@@ -1,0 +1,11 @@
+# notebook checkpoints
+.ipynb_checkpoints
+
+# results dir
+results
+
+# cache
+__pycache__
+
+#plots
+plots

@@ -1,0 +1,6 @@
+{
+    "swarm_size": 50,
+    "iterations": 50,
+    "file_path": "datasets/test3.col.txt",
+    "results_path": "results/results.txt"
+}
